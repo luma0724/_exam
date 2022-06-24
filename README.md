@@ -103,3 +103,4 @@ Note: All chi files with notes are of `.ipynb` for the sake of live previewing o
   - Persuasive speech on an issue related to OMAM - 30%
 
 ## Society Studies
+ 
