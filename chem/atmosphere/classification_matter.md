@@ -1,6 +1,6 @@
-Keywords: **Pure substance**, **mixture**, **element**, **compound**, **chemically combined together**, **broken down into anything simplier by chemical methods**, **physical and chemical properties**, *with/without chaing into another substance*
-
 # Classification of Matter
+
+> **Pure substance**, **mixture**, **element**, **compound**, **chemically combined together**, **broken down into anything simplier by chemical methods**, **physical and chemical properties**, *with/without chaing into another substance*
 
 ## Pure Substances and Mixtures
 
@@ -44,7 +44,7 @@ A pure substance can be classified into:
 
 > The **physical properties** of a substance are those properties that can be determined without the substance changing into another substance.
 
-- Physical properties: e.g., 
+- Physical properties: e.g.,
   - **Appearance** (colour and physical state)
   - **Odour**
   - **Taste**
@@ -56,13 +56,10 @@ A pure substance can be classified into:
   - **Malleability** (ability to be rolled into sheets)
   - **Ductility** (ability to be drawn into wires)
   - **Electrical conductivity**
-  - **Thermal conductivity **etc.
+  - **Thermal conductivity**etc.
 
 ### Chemical Properties
 
 > The **chemical properties** of a substance are those properties that describe the ability of that substance to react with other substance(s) or to change from one substance to another.
 
 - Chemical properties: e.g., Magnesium burns with oxygen vigorously *form magnesium oxide* ⇒ This is a chemical property of magnesium
-
-
-

@@ -166,4 +166,13 @@
 - Iron: (slow)
   - Dilute $HCl$: $Fe(s) + 2HCl(aq) \rightarrow FeCl_2(aq) + H_2(g)$
   - Dilute $H_2SO_4$: $Fe(s) + H_2SO_4(aq) \rightarrow FeSO_4(aq) + H_2(g)$
-  - Very dilute $HNO_3$: $Fe + HNO_3 \right$
+  - Very dilute $HNO_3$: $Fe + 2HNO_3 \rightarrow Fe(NO_3)_2(aq) + H_2(g)$
+
+- Lead: (very slow)
+  - Dilute $HCl$: $Pb(s) + 2HCl(aq) \rightarrow PbCl_2(s) + H_2(g)$
+  - Dilute $H_2SO_4$: $Pb(s) + H_2SO_4(aq) \rightarrow PbSO_4(s) + H_2(g)$
+  - Very dilute $HNO_3$: $Pb(s) + 2HNO_3(aq) \rightarrow Pb(NO_3)_2(aq) + H_2(g)$
+
+#### Metals that Do Not React with Dilute Acids
+
+- Copper, mercury, silver, platinum, gold do not react with dilute acids

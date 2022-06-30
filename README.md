@@ -28,7 +28,7 @@ Note: All chi files with notes are of `.ipynb` for the sake of live previewing o
 
 - Duration: 1 hour
 - Part A - news article (Unseen)
-- Part B - Of Mice and Men (Seen) + Learning materials in Term 1 
+- Part B - Of Mice and Men (Seen) + Learning materials in Term 1
 - TFNG
 - MC
 - Matching
@@ -71,7 +71,7 @@ Note: All chi files with notes are of `.ipynb` for the sake of live previewing o
 
   - Organization:
     - Proper paragraphs
-    - Logical development 
+    - Logical development
     - Transition paragraph
   - Grammar & Sentence structures
   - Word choice & style
@@ -103,4 +103,25 @@ Note: All chi files with notes are of `.ipynb` for the sake of live previewing o
   - Persuasive speech on an issue related to OMAM - 30%
 
 ## Society Studies
- 
+
+## Chemistry
+
+- Chapter 1: whole chapter (fundamentals of chemistry)
+
+- Chapter 2: only section 2.2 about substances and properties
+
+- Chapter 4: only section 4.2 about chemical and physical changes & extraction of metals
+
+- Chapter 5: whole chapter (atomic structure)
+
+- Chapter 6: whole chapter (the periodic table)
+
+- Chapter 7: whole chapter (ionic bonding except section 7.7 metallic bonding)
+
+- Chapter 8: whole chapter (covalent bonding)
+
+- Chapter 10: whole chapter (occurence & extraction of metals)
+
+- Chapter 11: whole chapter (reactivity of metals except 11.6 ionic equations)
+
+- Chapter 12: only sections 12.1-12.2 (mole, Avogadro constant, molar mass, percentage by mass)

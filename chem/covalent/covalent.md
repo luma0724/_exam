@@ -1,9 +1,11 @@
 # Covalent
 
+**Ionic bonding**, *strong non-directional electrostatic attraction between oppositely charged ions*, **ionic bond**, *transfer of electron(s)*, **ionic compound**, *\electircally neutral*, *desribe the formation of ionic bonds by transfer of electrons between atoms*
+
 ## Covalent Bonding
 
 > **Covalent bond** is the **strong directional electrostatic attraction** between the *shared electrons and the two nuclei of the bonded atoms*.
-
+>
 > A **covalent bond** forms by *sharing outermost shell electrons* between two atoms.
 
 - A **bond pair of electrons** (a **bond pair**): A pair of electrons shared between the two atoms
@@ -11,7 +13,7 @@
 
 ### Molecular Formula And Structural Formula
 
-> The **molecular formula of a molecular substance is the formula which shows the **actual number of each kind of atoms** in one molecular of the substance.
+> The **molecular formula of a molecular substance is the formula which shows the**actual number of each kind of atoms** in one molecular of the substance.
 
 - e.g., $Cl_2$, $O_2$, $CO_2$ etc.
 
@@ -21,7 +23,7 @@
 
 ### Covalent Bonding in Non-metal Elements
 
-#### Formation of Covalent Bond in a Chlorine Molecule ($Cl_2$) (Single Covalent Bond) 
+#### Formation of Covalent Bond in a Chlorine Molecule ($Cl_2$) (Single Covalent Bond)
 
 - The outermost shell of chlorine atom contains only 7 electrons, i.e., *one electron less than an octet* → It needs to gain one electron to get the electronic arrangement of a stable argon atom $(2, 8, 8)$
 - Each chlorine atom *shares an outermost electron* with another chlorine atom → Form a **single covalent bond**

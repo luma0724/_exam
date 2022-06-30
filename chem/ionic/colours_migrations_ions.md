@@ -1,12 +1,12 @@
-Keywords: **Aqueous solution**, *coloured ions*, *gemstones*, **migration of ions**
-
 # Colours and Migration of Ions
+
+> **Aqueous solution**, *coloured ions*, *gemstones*, **migration of ions**
 
 ## Colours of Ions
 
 - The **aqueous solutions** of ionic compounds are *colourless* ⇒ The component ions are colourless
 - The aquaeous solutions of ionic compounds containing the same component ion are *coloured* ⇒ The component ion is **coloured**
-- Coloured ions: e.g., Aquaeous solutions of *iron(III) sulphate, iron(III) chloride and iron(III) nitrate are all pale green* → Iron(III) ion is pale green in colour 
+- Coloured ions: e.g., Aquaeous solutions of *iron(III) sulphate, iron(III) chloride and iron(III) nitrate are all pale green* → Iron(III) ion is pale green in colour
 
 The colours of some common ions in aquaeous solution:
 
@@ -32,11 +32,10 @@ The colours of some common ions in aquaeous solution:
 ### Migration of Ions under The Influence of An Electric Field
 
 - General set-up:
-  - Place a small *crystal* of the ionic cocmpound which at least one of its component ions is coloured (if no coloured ions → no observable change) in the middle of a piece of filter paper. The paper is placed on a microscope slide connected to a d.c. power suppply by electrodes and has been moistened with the aqueous solution of other compound which is colourless in colour in order to conduct electricity. 
+  - Place a small *crystal* of the ionic cocmpound which at least one of its component ions is coloured (if no coloured ions → no observable change) in the middle of a piece of filter paper. The paper is placed on a microscope slide connected to a d.c. power suppply by electrodes and has been moistened with the aqueous solution of other compound which is colourless in colour in order to conduct electricity.
   - When a closed circuit is formed, a spot of the colour of the coloured ion moves slowly towards the electrode of electric charges opposite to that of the ion (respectively).
 
 ### Migration of Ions during Electrolysis Using a U-tube
 
 - General set-up:
   - The bottom of the U-tube is filled with a *gel containing the ions* (same case and precautions as mentioned). After the electric current has passed for some time, colour(s) may gradually appears in the solution around the electrodes.
-

@@ -1,6 +1,6 @@
-Keywords: *Simplest ratio of numbers of component ions*, *balancing the charge*
-
 # Names and Formulae of Ionic Compounds
+
+> *Simplest ratio of numbers of component ions*, *balancing the charge*
 
 ## Names of Ionic Compounds
 
@@ -30,8 +30,3 @@ Constructing formulae of ionic compounds:
 ### Formula of Ammonium Carbonate ($(NH_4)_2CO_3$)
 
 - For an ammonium carbonate compound ($(NH_4)_2CO_3$) formed by *ammonium ions ($NH_4$) and carbonate ions ($CO_3$), two ammonium ions are needed to balance the double negative charge of the carbonate ion* ⇒ The formula of ammonium carbonate is $(NH_4)_2CO_3$
-
-
-
-
-

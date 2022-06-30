@@ -1,7 +1,7 @@
-Keywords: **Ion**, *derived from an atom or a molecule*, *net electrical charge (ionic charge)*, *attain the stable electronic arrangement of the nearest noble gas*, **cation**, **anoin**, **simple ion**, **polyatomic ion**
-
 # Formation of Ions
 
+> **Ion**, *derived from an atom or a molecule*, *net electrical charge (ionic charge)*, *attain the stable electronic arrangement of the nearest noble gas*, **cation**, **anoin**, **simple ion**, **polyatomic ion**
+>
 > An **ion** is an atom or molecule with a net electrical charge.
 
 - Atoms of elements other than noble gases *are usually unstable* → These atoms tends to gain or lose outermost shell electrons as to **attain the stable electronic arrangement of the nearest noble gas**
@@ -39,7 +39,7 @@ Keywords: **Ion**, *derived from an atom or a molecule*, *net electrical charge 
 
 ### Formation of Chloride Ions
 
-- A chlorine atom *has an electronic arrangement ($2, 8, 7$)* → Tends to gain one electron to attain the electronic arrangement of a stable argon atom $(2, 8, 8)$ to form a chloride ion 
+- A chlorine atom *has an electronic arrangement ($2, 8, 7$)* → Tends to gain one electron to attain the electronic arrangement of a stable argon atom $(2, 8, 8)$ to form a chloride ion
 - A chlorine ion thus has *17 protons and 18 electrons*  → It has an overall charge of -1
 
 ### Formation of Oxide Ions
@@ -62,4 +62,3 @@ Keywords: **Ion**, *derived from an atom or a molecule*, *net electrical charge 
 - Ions can be classified into **simple ions** and **polyatomic ions**
 
 > A **simple ion** is derived from a single atom. A **polyatomic ions** is derived from a group of atoms.
-

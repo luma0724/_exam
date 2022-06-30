@@ -9,7 +9,7 @@
 
 ### Molecules in Compounds
 
-- Compounds made up of *only non-metals* → Usually consist of **molecules** 
+- Compounds made up of *only non-metals* → Usually consist of **molecules**
 - e.g., Water consists of water molecules (formula: $H_2O$), which each consists of two hydrogen atoms and a oxygen atom chemically combined together
 - Molecules of compounds, e.g., carbon dioxide ($CO_2$), ammonia ($NH_3$), hydrogen chloride ($HCl$) etc.
 
@@ -45,4 +45,3 @@ Atomicity of molecules of some elements:
 | Oxygen (Ozone)                | $O_3$   | 3 (Triatomic)  |
 | Phosphorus (White phosphorus) | $P_4$   | 4              |
 | Sulphur                       | $S_8$   | 8              |
-

@@ -1,6 +1,6 @@
-Keywords: *Roman numeral*, *suffixes: -ide, -ate, -ite*, *cations: simple metal ions*, *anions: simple non-metal ions, most polyatomic ions*, *group number → (corelate) ionic charge*
-
 # Formulae of Ions
+
+> *Roman numeral*, *suffixes: -ide, -ate, -ite*, *cations: simple metal ions*, *anions: simple non-metal ions, most polyatomic ions*, *group number → (corelate) ionic charge*
 
 ## Names and Formulae of Cations
 
@@ -96,6 +96,5 @@ Characteristics:
 ## Relation Between Ionic Charge and Group Number of an Element
 
 > For *metals in Groups I, II, III*, the number of positive charges on an ion is equal to its group number.
-
+>
 > For *non-metals in Groups V, VI, VII*, the number of negative charges on an ion is *usually* equal to ‘8 - group number’.
-

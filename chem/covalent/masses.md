@@ -16,4 +16,3 @@
 > The **formula mass** of a substance (or species) is the mass of one **formula unit** of it on the $^{12}C = 12.00$ scale, i.e, *sum of relative atomic masses of all atoms present in a formula unit of the substance (or species)* .
 
 - e.g., The formula mass of a magnesium chloride compound ($MgCl$) = $24.3 + 35.5 \times 2 = 95.3$  
-

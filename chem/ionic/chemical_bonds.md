@@ -1,6 +1,6 @@
-Keywords: **Conductor**, **electrolyte**, **non-conductor**, *conditional* **electrical properties**, **chemical bond**, **electrostatic attraction**, *chemical bonding ⇒ electrical properties*, **ionic bond**, **covalent bond**, **metallic bond**
-
 # Introducing Chemical Bonds
+
+> **Conductor**, **electrolyte**, **non-conductor**, *conditional* **electrical properties**, **chemical bond**, **electrostatic attraction**, *chemical bonding ⇒ electrical properties*, **ionic bond**, **covalent bond**, **metallic bond**
 
 ## Investgating Electrical Conductivity of Substances
 
@@ -24,4 +24,3 @@ There are three main types of chemical bonds:
 1. **Ionic bonds**: *Mainly* found in *compounds made up of metals and non-metals*
 2. **Metallic bonds**: Foind *only in metals*
 3. **Covalent bonds**: *Mainly* found in *non-metals and in compounds made up of only non-metals*
-

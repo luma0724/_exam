@@ -1,4 +1,4 @@
-#  Formulae and Names of Covalent Compounds
+# Formulae and Names of Covalent Compounds
 
 ## Formulae of Covalent Compounds
 
@@ -17,4 +17,3 @@ Writing the formulae of covalent compounds:
   2. A prefix (**mono-**, **dy-**, **tri-**, **tetra-** etc.) is *usually used to indicate the number of atoms of that element in a molecule of the compound* (The prefix *‘mono’ is usually not added to the name of the first element in the molecule of the compound*)
 - Names: e.g., Chlorine trifloride ($ClF_3$), Dinitrogen tetraoxide ($N_2O_4$) etc.
 - Special names: e.g., Methane ($CH_4$), ammonia ($NH_3$), water ($H_2O$), hydrogen peroxide ($H_2O_2$) etc.
-

@@ -1,13 +1,13 @@
-Keywords: **Ionic bonding**, *strong non-directional electrostatic attraction between oppositely charged ions*, **ionic bond**, *transfer of electron(s)*, **ionic compound**, *\electircally neutral*, *desribe the formation of ionic bonds by transfer of electrons between atoms* 
+# Ionic
 
-# Ionic 
+> **Ionic bonding**, *strong non-directional electrostatic attraction between oppositely charged ions*, **ionic bond**, *transfer of electron(s)*, **ionic compound**, *\electircally neutral*, *desribe the formation of ionic bonds by transfer of electrons between atoms*
 
 ## Ionic Bonding
 
 > **Ionic bonding** is the **strong non-directional electrostatic attraction** between *oppositely charged ions*.
-
-> An **ionic bond** forms by the **transfer of ** one or more **electrons** from one atom (or a group of atoms) to another.
-
+>
+> An **ionic bond** forms by the **transfer of** one or more **electrons** from one atom (or a group of atoms) to another.
+>
 > An **ionic compound** is a compound which consists of ions. It is **electrically neutral**.
 
 ### Formation of Ionic Bond Between Sodium Chlorine
