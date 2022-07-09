@@ -22,7 +22,7 @@ Characteristics:
 | $K^+$   | Potassium ion |
 | $Cu^+$  | Copper(i) ion |
 | $Ag^+$  | Silver ion    |
-| $Hg^+$  | Mercury ion   |
+| $Hg^+$ V | Mercury ion   |
 | $H^+$   | Hydrogen ion  |
 | $NH4^+$ | Ammonium ion  |
 

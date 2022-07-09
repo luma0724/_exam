@@ -3,7 +3,7 @@
 > **Extraction**, **heating the metal ore alone** (*under strong heating & decomposition*, *oxide -> direct decomposed*, *sulphide burns with oxygen -> decomposed*), **heating the metal ore with carbon** (**carbon reduction** with *carbon/ carbon monoxide -> burning with oxygen*), **electrolysis** (*graphite (positive & negative electrodes)*, *cryolite*, *molten purified metal ore*), *extraction difficulty proportioinal to metal reactivity*
 
 - **Extraction** of metals is the process of *separating a metal from its ore*
-
+5
 - Unreactive metals: *physicial methods*, e.g., gold nuggets -> *panning*
 
 - Reactive metals: *chemical methods*:

@@ -25,7 +25,7 @@ Keywords: **Desert**, **aridity**, e.g., *humidity*, *rainfall*, **pressure belt
 
 - Note that the **Arctic** and **Antarctica** are also considered as deserts due to their *leak of precipitation*.
 
-![Deserts](./img/deserts.png)
+![Deserts](./../img/deserts.png)
 
 ## Features of Deserts
 
@@ -35,11 +35,11 @@ Keywords: **Desert**, **aridity**, e.g., *humidity*, *rainfall*, **pressure belt
 
 2. **Stony deserts**: e.g., Mojave, deserts, with features, e.g., 'desert pavements'
 
-3. **Rocky deserts**: e.g., Sahara, Africa, with features, e.g., stone cliffs, rock pedestrals etc.
+3. **Rocky deserts**: e.g., Sahara, Africa, with features, e.g., stone cliffs, rock pedestals etc.
 
 ### Special Land Features
 
-- e.g., Yardangs, sand dunes (e.g., longitudinal dunes, star dunes), sandhills, rock cliffs, rock pedestrals, buttes etc.
+- e.g., Yardangs, sand dunes (e.g., longitudinal dunes, star dunes), sandhills, rock cliffs, rock pedestals, buttes etc.
 
 ### Desert Vegetation
 
@@ -55,16 +55,16 @@ Keywords: **Desert**, **aridity**, e.g., *humidity*, *rainfall*, **pressure belt
 
 ### Oasis
 
-- Few nouns: e.g., Impermeable rock, aquaifer, well oasis, oasis, water table etc.
+- Few nouns: e.g., Impermeable rock, aquifer, well oasis, oasis, water table etc.
   
 - Formed by wind cutting out the surface, depression in arid regions until reaching the water table to have water exposed on the surface
 
 ## Causes for Aridity
 
-1. **Far away from the sea**: *Little precipitation* can reach the *continental interiors* (may or may not) due to the **rainshadow effect**
+1. **Far away from the sea**: *Little precipitation* carried by the sea breeze can reach the *continental interiors*
 
 2. **Offshore winds**: *Prevailing wind* blowing offshore *limits moisture* reaching the land, e.g., Namib desert (concept of *relative humidity*; humidity $\propto$ rainfall )
 
-3. **High pressure belt**: *Increasing part in the circulation cells*, i.e., *sinking air at 30N/S* => Not favoring the formation of clouds and rain
+3. **High pressure belt**: *Sinking air* in ~30N/S does not favor the formation of clouds and rain
 
 4. **Rain shadow effect**: Air uplifted due to the pressence of *mountains* => condenses and precipitation falls on the windward side; as a result, air that continues to travel to the *leeward side* is extremely dry

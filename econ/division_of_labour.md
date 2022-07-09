@@ -35,7 +35,7 @@
    - **Choose the most suitable workers**: assign jobs to workers according to their talents for best use of talents
    - **Practice makes perfect**: encourgae repetition and continuous practice to be more skillful
    - **Stimulus to mechanization**: simples tasks allow use of machines
-   - **Economy of time**: save time to adapt to new tasks and training
+   - **Economy of time**: save time to adapt to new tasks and trainingd
 
 2. **Economy of capital goods**: only need the tools required for individual production stage
 

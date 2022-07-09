@@ -23,7 +23,7 @@ ication and sandstorm**
 
 ### Physical Factors
 
-(Taken Talka Makan Desert and Gobi Desert in China as examples)
+(Taken Taklamakan Desert and Gobi Desert in China as examples)
 
 - **Northern, northwest China** are most at risk of desertification as the area has annual rainfall *below 400mm* and existing deserts in the area, e.g., Talka Makan and Gobi Desert
 
@@ -41,7 +41,7 @@ ication and sandstorm**
 1. **Population/Economy increase** => **Increase demand on resources**
 2. **Removal of vegitation**:
     - *Over-cultivation*
-    - *Deforestration*
+    - *Deforestation*
     - *Overgrazing*
 3. **Drier soil**:
    1. *Misuse of water resources*

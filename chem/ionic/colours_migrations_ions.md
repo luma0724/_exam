@@ -8,6 +8,8 @@
 - The aquaeous solutions of ionic compounds containing the same component ion are *coloured* ⇒ The component ion is **coloured**
 - Coloured ions: e.g., Aquaeous solutions of *iron(III) sulphate, iron(III) chloride and iron(III) nitrate are all pale green* → Iron(III) ion is pale green in colour
 
+![Colours of common ions](img/../../img/colours_ions.jpeg)
+
 The colours of some common ions in aquaeous solution:
 
 | Ion         | Copper(II)    | Iron(II)   | Iron(III)       | Cobalt(II) | Nickel(II) | Chromium(III) | Chromate     | Dichromate     | Manganese(II)  | Permanganate |
@@ -16,6 +18,8 @@ The colours of some common ions in aquaeous solution:
 | **Colour**  | Blue or green | Pale green | Yellow or brown | Pink       | Green      | Green         | Yellow       | Orange         | Very pale pink | Purple       |
 
 ## Coloured Ions in Gemstones
+
+![Ions in gemstones](../img/gemstones_ions.jpeg)
 
 - *Colours of gemstones* → **Traces of coloured ions**
 

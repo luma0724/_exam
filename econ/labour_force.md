@@ -42,4 +42,3 @@ To the society:
 1. **Loss of human capital**: Unemployed means that human resources are not fullty utilised. This hinders the economic growth of an economy.
 
 2. **Social and political unrest**: Rise in unemployment rate may lead to higher crime rate such as robbery. Many people may also be discountented with the government and political unrest results.
-
